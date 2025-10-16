@@ -76,4 +76,4 @@ npm run preview
 - `npm run preview`: Preview the build locally
 
 ---
-Made with ❤️. Credit footer links to `shavuparmar.vercel.app`.
+Made with ❤️ by shavuparmar
